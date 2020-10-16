@@ -35,7 +35,7 @@ def wishMe():
     else:
         speak("Good Evening!")  
 
-    speak("Welcome to TAF, We demand your sacrifice. Kyaa chhaahiiyee gaaanddu?")
+    speak("Welcome to TAF, We demand your sacrifice. Speak up dude!!")
 
 def takeCommand():
     r = sr.Recognizer()
